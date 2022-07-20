@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/busca-cep-deploy/static/css/main.499b8c95.css",
-    "main.js": "/busca-cep-deploy/static/js/main.3f075992.js",
-    "index.html": "/busca-cep-deploy/index.html",
-    "main.499b8c95.css.map": "/busca-cep-deploy/static/css/main.499b8c95.css.map",
-    "main.3f075992.js.map": "/busca-cep-deploy/static/js/main.3f075992.js.map"
+    "main.css": "/busca-cep/static/css/main.499b8c95.css",
+    "main.js": "/busca-cep/static/js/main.3f075992.js",
+    "index.html": "/busca-cep/index.html",
+    "main.499b8c95.css.map": "/busca-cep/static/css/main.499b8c95.css.map",
+    "main.3f075992.js.map": "/busca-cep/static/js/main.3f075992.js.map"
   },
   "entrypoints": [
     "static/css/main.499b8c95.css",
