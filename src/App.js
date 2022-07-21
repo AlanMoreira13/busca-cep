@@ -41,10 +41,10 @@ function App() {
       </div>
       {Object.keys(cep).length > 0 && (
         <main className="main">
-        <h1>Cep: {cep.cep}</h1>
-        <span>{cep.logradouro}</span>
-        <span>Bairro: {cep.bairro}</span>
-        <span>{cep.localidade} - {cep.uf}</span>
+          <h1>Cep: {cep.cep}</h1>
+          <span>{cep.logradouro}</span>
+          <span>Bairro: {cep.bairro}</span>
+          <span>{cep.localidade} - {cep.uf}</span>
       </main>
     )}
       
