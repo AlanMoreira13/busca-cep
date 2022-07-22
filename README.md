@@ -1,4 +1,4 @@
-# Projetio que consome a api "viacep", e traz os dados de um CEP digitado pelo usuário!
+# Projeto que consome a api "viacep", e traz os dados de um CEP digitado pelo usuário!
 
 ### <em>Além de treinar o HTML e CSS pude praticar as bases do React, utilizando mudança de estado com o useState, tratar erros com o try/catch...</em>
 
